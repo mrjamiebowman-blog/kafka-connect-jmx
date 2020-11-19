@@ -1,2 +1,2 @@
-# kafka-connect-jmx
+# Kafka Connect JMX
 Kafka Connect JMX
